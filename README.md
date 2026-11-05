@@ -1,0 +1,1 @@
+# tradingcard-img
